@@ -1,3 +1,5 @@
+![alt text](whatever.svg)
+
 ### 👋 Hello there
 My name Is Chrysna Ardy Putra Pratama. I'm from East java, Indonesia
 

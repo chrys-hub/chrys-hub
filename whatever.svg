@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.35590942"
-     inkscape:cx="587.22806"
-     inkscape:cy="581.60866"
+     inkscape:cx="252.87333"
+     inkscape:cy="410.21673"
      inkscape:window-width="1366"
      inkscape:window-height="745"
      inkscape:window-x="-8"
@@ -46,5 +46,45 @@
        height="203.5477"
        x="0.26283187"
        y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;fill:#1a1a1a;stroke-width:0.264583"
+       x="119.68753"
+       y="46.834248"
+       id="text165"><tspan
+         id="tspan163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Adobe Song Std';-inkscape-font-specification:'Adobe Song Std';fill:#ececec;stroke-width:0.264583"
+         x="119.68753"
+         y="46.834248"
+         sodipodi:role="line">I'm Currently Working</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.7556px;fill:#1a1a1a;stroke-width:0.264583"
+       x="179.26128"
+       y="90.462738"
+       id="text165-2"><tspan
+         id="tspan163-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Adobe Song Std';-inkscape-font-specification:'Adobe Song Std';fill:#ececec;stroke-width:0.264583"
+         x="179.26128"
+         y="90.462738"
+         sodipodi:role="line">For This Banner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Adobe Song Std';-inkscape-font-specification:'Adobe Song Std';fill:#ececec;stroke-width:0.264583"
+       x="69.387611"
+       y="131.41592"
+       id="text407"><tspan
+         sodipodi:role="line"
+         id="tspan405"
+         style="stroke-width:0.264583"
+         x="69.387611"
+         y="131.41592">Because  i Can't Use The Tool</tspan></text>
+    <rect
+       style="fill:#ececec;stroke-width:0.264583"
+       id="rect461"
+       width="202.205"
+       height="2.973603"
+       x="23.788824"
+       y="153.88396" />
   </g>
 </svg>
