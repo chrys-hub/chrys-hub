@@ -1,4 +1,7 @@
-![alt text](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"/>
+</div>
+
 
 ### 👋 Hello there
 My name Is Chrysna Ardy Putra Pratama. I'm from East java, Indonesia
