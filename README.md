@@ -27,7 +27,7 @@ About me:
 
 ## :fire: Most Languages Used
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrys-hub" width="100%" height="50%"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrys-hub" width="50%" height="50%"/></a>
 </div>
 
 
