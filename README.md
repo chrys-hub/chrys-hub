@@ -24,6 +24,10 @@ About me:
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chrys-hub&theme=dark&border_radius=5&fire=DD2727"/></a>
 </div>
 
+<div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrys-hub"/></a>
+</div>
+
 
 
 
