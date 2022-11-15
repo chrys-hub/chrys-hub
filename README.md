@@ -20,10 +20,12 @@ About me:
 <code><a href="https://flutter.dev/"><img alt="flutter" title="flutter" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" height="42"></a></code>
 
 ### :fire: My Stats
+
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chrys-hub&theme=dark&border_radius=5&fire=DD2727"/></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chrys-hub&theme=dark&border_radius=5&fire=DD2727" width="100%"/></a>
 </div>
 
+## :fire: Most Languages Used
 <div align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrys-hub"/></a>
 </div>
