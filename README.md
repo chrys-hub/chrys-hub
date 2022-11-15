@@ -19,6 +19,11 @@ About me:
 <code><a href="https://dart.dev/"><img alt="dart" title="php" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="42"></a></code>
 <code><a href="https://flutter.dev/"><img alt="flutter" title="flutter" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" height="42"></a></code>
 
+### My Stats
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrys-hub&theme=dark&border_radius=5&fire=DD2727)](https://git.io/streak-stats)
+</div>
+
 
 
 
