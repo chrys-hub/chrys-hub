@@ -1,11 +1,11 @@
-![alt text](whatever.svg)
+![alt text](https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
 
 ### 👋 Hello there
 My name Is Chrysna Ardy Putra Pratama. I'm from East java, Indonesia
 
-Here are some things about me for you, to get to know me:
-- you can reach me via gmail : chrysnaardy123@gmail.com
+About me:
 - I like doing interesting stuff for studying, if you got a personal project and you need a hand,you can reach me
+- reach me here : chrysnaardy123@gmail.com
 
 ### Languages and Framework That I Use
 <code><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://e7.pngegg.com/pngimages/508/424/png-clipart-logo-orange-s-a-codeigniter-logo-orange-sa-thumbnail.png" height="42"></a></code>
@@ -15,6 +15,7 @@ Here are some things about me for you, to get to know me:
 <code><a href="https://www.php.net/"><img alt="php" title="php" src="https://icon-library.com/images/php-icon/php-icon-15.jpg" height="42"></a></code>
 <code><a href="https://dart.dev/"><img alt="dart" title="php" src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="42"></a></code>
 <code><a href="https://flutter.dev/"><img alt="flutter" title="flutter" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.jpg" height="42"></a></code>
+
 
 
 
