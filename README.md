@@ -9,6 +9,8 @@ My name Is Chrysna Ardy Putra Pratama. I'm from East java, Indonesia
 About me:
 - I like doing interesting stuff for studying, if you got a personal project and you need a hand,you can reach me
 - reach me here : chrysnaardy123@gmail.com
+- Spicy food priority
+- Introvert (probably)
 
 # :heart_eyes_cat: Languages and Framework That I Use
 <code><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://e7.pngegg.com/pngimages/508/424/png-clipart-logo-orange-s-a-codeigniter-logo-orange-sa-thumbnail.png" height="42"></a></code>
