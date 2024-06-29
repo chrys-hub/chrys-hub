@@ -4,7 +4,7 @@
 
 
 # :wave: Hello there
-My name Is Chrysna Ardy Putra Pratama. I'm from East java, Indonesia
+My name Is Chrys. I'm from East java, Indonesia
 
 About me:
 - I like doing interesting stuff for studying, if you got a personal project and you need a hand,you can reach me
