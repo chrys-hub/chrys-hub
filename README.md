@@ -11,6 +11,7 @@ About me:
 - reach me here : chrysnaardy123@gmail.com
 - Spicy food priority
 - I still don't know who i am
+- i also patching up game that dev too lazy to fix
 
 # :heart_eyes_cat: Languages and Framework That I Use
 <code><a href="https://codeigniter.com"><img alt="Codeigniter" title="Codeigniter" src="https://e7.pngegg.com/pngimages/508/424/png-clipart-logo-orange-s-a-codeigniter-logo-orange-sa-thumbnail.png" height="42"></a></code>
